@@ -21,9 +21,14 @@ Welcome to **Todo List**! This project is a simple and efficient task management
   <img src="https://github.com/Ketan-Verma21/Todo-App/assets/106913278/4493d4ac-b2b5-468d-80af-6b9f38734e74" alt="Screenshot 7" width="300" />
 </div>
 
+
+
 ## Video Demo
 
 You can watch a demo of the Todo List app in action by clicking [here](https://github.com/Ketan-Verma21/Todo-App/assets/106913278/899b86ca-74c1-4368-90f2-0578ed1c0a4f).
+
+
+
 
 ## Getting Started
 
