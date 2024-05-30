@@ -93,10 +93,6 @@ We welcome contributions to enhance the Todo List app! To contribute:
 4. Push to the branch (`git push origin feature/your-feature-name`).
 5. Create a new Pull Request.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Contact
 
 If you have any questions or feedback, feel free to reach out:
