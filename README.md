@@ -12,13 +12,13 @@ Welcome to **Todo List**! This project is a simple and efficient task management
 ## Screenshots
 
 <div style="display: flex; overflow-x: auto; padding: 10px; gap: 50px;">
-  <img src="https://github.com/Ketan-Verma21/Todo-App/assets/106913278/3350b314-eebf-4c69-8e2e-eaa1ca5f14b3" alt="Screenshot 1" width="300" />
-  <img src="https://github.com/Ketan-Verma21/Todo-App/assets/106913278/4f0aa70e-998e-4861-a696-359d4091fad5" alt="Screenshot 2" width="300" />
-  <img src="https://github.com/Ketan-Verma21/Todo-App/assets/106913278/d36e6980-eadb-40b5-a911-2263a62a8b4d" alt="Screenshot 3" width="300" />
-  <img src="https://github.com/Ketan-Verma21/Todo-App/assets/106913278/6ced5583-599a-43d9-947f-42f5c0fef23e" alt="Screenshot 4" width="300" />
-  <img src="https://github.com/Ketan-Verma21/Todo-App/assets/106913278/3906f778-8b2b-463a-bfe9-3d8196af1daf" alt="Screenshot 5" width="300" />
-  <img src="https://github.com/Ketan-Verma21/Todo-App/assets/106913278/9e5f6a6d-bf6f-4884-a9a1-452f7f005cd5" alt="Screenshot 6" width="300" />
-  <img src="https://github.com/Ketan-Verma21/Todo-App/assets/106913278/4493d4ac-b2b5-468d-80af-6b9f38734e74" alt="Screenshot 7" width="300" />
+  <img src="https://github.com/Ketan-Verma21/Todo-App/assets/106913278/3350b314-eebf-4c69-8e2e-eaa1ca5f14b3" alt="Screenshot 1" width="300" height="500" />
+  <img src="https://github.com/Ketan-Verma21/Todo-App/assets/106913278/4f0aa70e-998e-4861-a696-359d4091fad5" alt="Screenshot 2" width="300" height="500"/>
+  <img src="https://github.com/Ketan-Verma21/Todo-App/assets/106913278/d36e6980-eadb-40b5-a911-2263a62a8b4d" alt="Screenshot 3" width="300" height="500"/>
+  <img src="https://github.com/Ketan-Verma21/Todo-App/assets/106913278/6ced5583-599a-43d9-947f-42f5c0fef23e" alt="Screenshot 4" width="300" height="500"/>
+  <img src="https://github.com/Ketan-Verma21/Todo-App/assets/106913278/3906f778-8b2b-463a-bfe9-3d8196af1daf" alt="Screenshot 5" width="300" height="500"/>
+  <img src="https://github.com/Ketan-Verma21/Todo-App/assets/106913278/9e5f6a6d-bf6f-4884-a9a1-452f7f005cd5" alt="Screenshot 6" width="300" height="500"/>
+  <img src="https://github.com/Ketan-Verma21/Todo-App/assets/106913278/4493d4ac-b2b5-468d-80af-6b9f38734e74" alt="Screenshot 7" width="300" height="500"/>
 </div>
 
 ## Video Demo
