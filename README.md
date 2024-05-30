@@ -71,11 +71,11 @@ todo-app/
 |- pubspec.yaml
 ```
 
-- **components**: Contains reusable UI components.
-- **models**: Contains data models used in the app.
+- **data**: Contains functions for hive database.
+- **extensions**: Contains the code snippets that reduce the size of project.
 - **pages**: Includes all the screen widgets (e.g., home, add task, update task).
-- **services**: Contains service classes for database interactions.
-- **theme**: Contains theme-related files for styling the app.
+- **util**: Contains all the utilities in the app.
+- **views**: Contains all the views in-app.
 - **main.dart**: The entry point of the application.
 
 ## Contributing
